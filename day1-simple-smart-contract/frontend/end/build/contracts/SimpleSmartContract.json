@@ -1,0 +1,124 @@
+{
+  "contractName": "SimpleSmartContract",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.5.16+commit.9c3226ce\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"/C/Users/pc/fist_contract/eattheblocks-pro/dapp-30/day1-simple-smart-contract/frontend/end/contracts/SimpleSmartContract.sol\":\"SimpleSmartContract\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/C/Users/pc/fist_contract/eattheblocks-pro/dapp-30/day1-simple-smart-contract/frontend/end/contracts/SimpleSmartContract.sol\":{\"keccak256\":\"0x86e42940f56b9732fbba45272779b5ad29e588ccc706edc270147106f3d28f3e\",\"urls\":[\"bzz-raw://37474ff71e724c044666ae48cb3fbedd898edda9eb4fa72996ce7a933a091552\",\"dweb:/ipfs/QmUTxthmtKSznpkR6C5J3s65vzbUwQ7stvA8jppLTmjYu7\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603e80601d6000396000f3fe6080604052600080fdfea265627a7a72315820a7480afd5fcae34c971314963f8037815b0760a3b6edd5f93820961fb6d2933e64736f6c63430005100032",
+  "deployedBytecode": "0x6080604052600080fdfea265627a7a72315820a7480afd5fcae34c971314963f8037815b0760a3b6edd5f93820961fb6d2933e64736f6c63430005100032",
+  "sourceMap": "27:31:1:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;27:31:1;;;;;;;",
+  "deployedSourceMap": "27:31:1:-;;;;;",
+  "source": "pragma solidity ^0.5.0;\r\n\r\ncontract SimpleSmartContract {}\r\n",
+  "sourcePath": "C:/Users/pc/fist_contract/eattheblocks-pro/dapp-30/day1-simple-smart-contract/frontend/end/contracts/SimpleSmartContract.sol",
+  "ast": {
+    "absolutePath": "/C/Users/pc/fist_contract/eattheblocks-pro/dapp-30/day1-simple-smart-contract/frontend/end/contracts/SimpleSmartContract.sol",
+    "exportedSymbols": {
+      "SimpleSmartContract": [
+        59
+      ]
+    },
+    "id": 60,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 58,
+        "literals": [
+          "solidity",
+          "^",
+          "0.5",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:1"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 59,
+        "linearizedBaseContracts": [
+          59
+        ],
+        "name": "SimpleSmartContract",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 60,
+        "src": "27:31:1"
+      }
+    ],
+    "src": "0:60:1"
+  },
+  "legacyAST": {
+    "attributes": {
+      "absolutePath": "/C/Users/pc/fist_contract/eattheblocks-pro/dapp-30/day1-simple-smart-contract/frontend/end/contracts/SimpleSmartContract.sol",
+      "exportedSymbols": {
+        "SimpleSmartContract": [
+          59
+        ]
+      }
+    },
+    "children": [
+      {
+        "attributes": {
+          "literals": [
+            "solidity",
+            "^",
+            "0.5",
+            ".0"
+          ]
+        },
+        "id": 58,
+        "name": "PragmaDirective",
+        "src": "0:23:1"
+      },
+      {
+        "attributes": {
+          "baseContracts": [
+            null
+          ],
+          "contractDependencies": [
+            null
+          ],
+          "contractKind": "contract",
+          "documentation": null,
+          "fullyImplemented": true,
+          "linearizedBaseContracts": [
+            59
+          ],
+          "name": "SimpleSmartContract",
+          "nodes": [
+            null
+          ],
+          "scope": 60
+        },
+        "id": 59,
+        "name": "ContractDefinition",
+        "src": "27:31:1"
+      }
+    ],
+    "id": 60,
+    "name": "SourceUnit",
+    "src": "0:60:1"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.16+commit.9c3226ce.Emscripten.clang"
+  },
+  "networks": {
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0x946E5AeE1b1753DdC4fCBfbb35796177368AcB5e",
+      "transactionHash": "0x5c5436c21f38b71af5e4da562f21b26d1a8c264aafc049aae9fda0947ee3e953"
+    }
+  },
+  "schemaVersion": "3.3.4",
+  "updatedAt": "2021-04-20T16:24:05.629Z",
+  "networkType": "ethereum",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}
