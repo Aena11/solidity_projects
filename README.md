@@ -9,5 +9,4 @@
 ### command for truffle running
 1. truffle develop
 2. migrate --reset (runs migration file)
-3. ![[Pasted image 20210420215208.png]]
-4. ![[Pasted image 20210420215417.png]]
+
